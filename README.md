@@ -27,7 +27,7 @@ The repository is organized as follows:
 
 ## Getting Started
 To get started with this repository:
-1. **Clone the Repository**: `git clone https://github.com/yourusername/math-teaching-resources.git`
+1. **Clone the Repository**: `git clone https://github.com/matinmoq/teaching.git`
 2. **Explore the Code and Questions**: Browse through the `/code/` and `/questions/` directories to find resources that fit your teaching needs.
 3. **Use and Adapt**: Feel free to use, adapt, and expand upon the resources provided to suit your classroom or tutoring sessions.
 
@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions, suggestions, or feedback, please contact us at:
-- **Email**: your-email@example.com
-- **GitHub Issues**: [Issues Page](https://github.com/yourusername/math-teaching-resources/issues)
+- **Email**: mtn.ms049@gmail.com
+- **GitHub Issues**: [Issues Page](https://github.com/matinmoq/teaching/issues)
 
 We hope you find these resources helpful and that they contribute to a more engaging and effective math education experience for your students!
